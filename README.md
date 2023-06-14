@@ -1,2 +1,2 @@
 # carritoComprasJs
-carrito de compras en JS
+Proyecto carrito de compras en JavaScript🛒

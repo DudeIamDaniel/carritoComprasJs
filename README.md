@@ -1,2 +1,2 @@
-# carritoComprasJs
-Proyecto carrito de compras en JavaScript🛒
+# C8C
+Proyecto de plataforma de aprendizaje en linea
